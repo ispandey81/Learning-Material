@@ -6,3 +6,7 @@ http://www.dukelearntoprogram.com/course2/index.php
 
 Install java on ubuntu-
 https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-12-04-with-apt-get
+
+BlueJ youtube videos-
+https://www.youtube.com/watch?v=CPUaTT0Xoo4&list=PLYPWr4ErjcnzWB95MVvlKArO6PIfv1fHd
+
