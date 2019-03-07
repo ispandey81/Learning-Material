@@ -10,3 +10,4 @@ https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-1
 BlueJ youtube videos-
 https://www.youtube.com/watch?v=CPUaTT0Xoo4&list=PLYPWr4ErjcnzWB95MVvlKArO6PIfv1fHd
 
+Callbacks in java/Observer pattern- https://stackoverflow.com/questions/18279302/how-do-i-perform-a-java-callback-between-classes
