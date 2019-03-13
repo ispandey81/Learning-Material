@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=CPUaTT0Xoo4&list=PLYPWr4ErjcnzWB95MVvlKArO6PIfv1
 Callbacks in java/Observer pattern- https://stackoverflow.com/questions/18279302/how-do-i-perform-a-java-callback-between-classes
 
 Design patterns reference- https://java-design-patterns.com/patterns/
+
+Design pattern youtube videos (java)- https://www.youtube.com/playlist?list=PLF206E906175C7E07 
