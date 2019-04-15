@@ -3,6 +3,8 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+//try and use classes, interfaces and enums from java.time package instead
+//(e.g. LocalDate, LocalTime, LocalDateTime, ZonedDateTime, Instant, DayOfWeek, Month, DateTimeFormatter  etc)
 public class DateFormatter {
 
 	
