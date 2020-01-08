@@ -17,3 +17,5 @@ Design patterns reference- https://java-design-patterns.com/patterns/
 Design pattern youtube videos (java)- https://www.youtube.com/playlist?list=PLF206E906175C7E07 
 
 HTML, CSS and Javascript coursera course repo - https://github.com/jhu-ep-coursera/fullstack-course4
+
+Streams in java by Brian Goetz - https://developer.ibm.com/articles/j-java-streams-1-brian-goetz/
