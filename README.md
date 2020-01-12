@@ -19,3 +19,7 @@ Design pattern youtube videos (java)- https://www.youtube.com/playlist?list=PLF2
 HTML, CSS and Javascript coursera course repo - https://github.com/jhu-ep-coursera/fullstack-course4
 
 Streams in java by Brian Goetz - https://developer.ibm.com/articles/j-java-streams-1-brian-goetz/
+
+Python for everybody - https://www.py4e.com/
+
+Python for beginners - https://channel9.msdn.com/Series/Intro-to-Python-Development
