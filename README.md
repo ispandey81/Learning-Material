@@ -20,6 +20,8 @@ HTML, CSS and Javascript coursera course repo - https://github.com/jhu-ep-course
 
 Streams in java by Brian Goetz - https://developer.ibm.com/articles/j-java-streams-1-brian-goetz/
 
+Use cases for volatile keyword - https://www.ibm.com/developerworks/java/library/j-jtp06197/
+
 Python for everybody - https://www.py4e.com/
 
 Python for beginners - https://channel9.msdn.com/Series/Intro-to-Python-Development
