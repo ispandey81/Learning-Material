@@ -25,3 +25,5 @@ Use cases for volatile keyword - https://www.ibm.com/developerworks/java/library
 Python for everybody - https://www.py4e.com/
 
 Python for beginners - https://channel9.msdn.com/Series/Intro-to-Python-Development
+
+OWASP security cheat sheets (refer this when you want to implement application security) - https://cheatsheetseries.owasp.org/
